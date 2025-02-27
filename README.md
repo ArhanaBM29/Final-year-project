@@ -1,1 +1,1 @@
-# Final-year-project
+# Heart-Disease-Pred
